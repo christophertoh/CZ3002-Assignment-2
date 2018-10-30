@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+ 
+<style type ="text/css">
+html {
+	background: white;
+}
+	
+#wrapper {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}	
+
+</style>
